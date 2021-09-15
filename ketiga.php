@@ -1,6 +1,6 @@
-<nama : Durotun Nafisah Amalia Ahli>
-<NIM : 20051397041>
-<kelas : D4 Manajemen Informatika>
+<!--nama    : Durotun Nafisah Amalia Ahli-->
+<!--NIM     : 20051397041-->
+<!--kelas   : D4 Manajemen Informatika-->
     
 
 
